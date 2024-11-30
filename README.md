@@ -10,7 +10,7 @@
    ```
 2. Запустить контейнер Docker с minio:
    ```bash
-   docker-compose up -d        
+   docker compose up -d        
    ```
 3. Установить права доступа:
    ```bash
